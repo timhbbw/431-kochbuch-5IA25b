@@ -4,7 +4,7 @@ title: "Koreanischer Gurkensalat"
 date: 2026-06-25
 draft: false
 description: "Eine vereinfachte Version von einem Koreanischen Gurkensalat"
-image: "images/recipes/chicken-tikka-masala.svg"
+image: "images/recipes/koreanische_gurken.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Koreanisch", "Vorspeise"]
