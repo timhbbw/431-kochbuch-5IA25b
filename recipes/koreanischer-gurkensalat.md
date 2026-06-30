@@ -3,7 +3,7 @@
 title: "Koreanischer Gurkensalat"
 date: 2026-06-25
 draft: false
-description: "Eine vereinfachte Version von einem Koreanischen Gurkensalat"
+description: "Eine vereinfachte Version eines koreanischen Gurkensalats"
 image: "images/recipes/koreanische_gurken.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
@@ -21,7 +21,7 @@ cook_time: "5 Min."
 ingredients:
   - "1 Gurke"
   - "Sojasauce"
-  - "Peperoncini Oliven Öl"
+  - "Peperoncini-Olivenöl"
   - "Salz & Pfeffer"
 
 # ── Zubereitung ──────────────────────────────────────────
@@ -29,11 +29,11 @@ instructions:
   - "Die Gurke zuerst waschen und anschliessend in der Länge halbieren."
   - "Anschliessend die Gurke in Scheiben schneiden. Die Gurken nun in eine Schüssel geben."
   - "Nun zur Sauce. Über die geschnittenen Gurken etwas Sojasauce hinzufügen."
-  - "Nach der Sojasauce kommt noch etwas Peperoncini-Öl darüber."
+  - "Nach der Sojasauce kommt noch etwas Peperoncini-Olivenöl darüber."
   - "Rühre nun die Gurken etwas in der Sauce um und füge je nach Geschmack noch etwas Gewürz dazu."
 ---
 
-> «Eine einfache Vorspeise, perfekt » — Tim
+> «Schnell gemacht, frisch und überraschend füllend – mein Go-to, wenn's schnell gehen muss.» — Tim
 
 ## Über dieses Rezept
 
@@ -41,7 +41,8 @@ Ich mach mir diesen einfachen Gurkensalat auch oft als Hauptgericht. Braucht nic
 
 ## Tipps
 
-- Gurke vorher im Kühlschrank aufbewahren
+- Gurke vorher im Kühlschrank aufbewahren – macht den Salat noch etwas erfrischender.
+- Beim Peperoncini-Olivenöl vorsichtig dosieren – lieber wenig nehmen und nachschärfen.
 
 ## Serviervorschläge
 
