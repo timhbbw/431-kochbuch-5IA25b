@@ -2,7 +2,7 @@
 # ── Basis ────────────────────────────────────────────────
 title: "Chicken Fried Rice"
 date: 2026-06-12
-draft: true
+draft: false
 description: "Dieses Chicken Fried Rice ist ein schnelles und einfaches Reisgericht mit Tiefkühlprodukten. Mit Poulet, Gemüse und Reis vom Vortag ist es trotzdem lecker und sättigend."
 image: "images/recipes/you_tellin_me_a_chicken_fried_this_rice_.jpg"
 
