@@ -12,8 +12,8 @@ contributors: ["Nolan Kolb"]
 difficulty: "Mittel"
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 8
-prep_time: "15-20 Min."
-cook_time: "15-20 Min."
+prep_time: "15-20 min"
+cook_time: "15-20 min"
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
 - "200g Butter"
@@ -38,7 +38,7 @@ instructions:
   - "15-20 Min. im Ofen backen, Mitte sollte immer noch cremig sein."
 ---
 
-> «Hab keine Angst vor einem nicht ganz durchgebackenen Kladdkaka; das ist in Schweden quasi Gesetz.» — Nolan Kolb
+> «Hab keine Angst vor einem nicht ganz durchgebackenen Kladdkaka; das ist in Schweden quasi Gesetz.» — Nolan
 
 ## Über dieses Rezept
 

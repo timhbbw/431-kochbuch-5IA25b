@@ -14,8 +14,8 @@ difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 1
-prep_time: "10 Min."
-cook_time: "2 Min."
+prep_time: "10 min"
+cook_time: "2 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -37,7 +37,7 @@ instructions:
   - "Warm direkt aus der Tasse geniessen."
 ---
 
-> "Der schnellste Kuchen, den ich je gemacht habe — und trotzdem gut" - Jakub Bielec
+> "Der schnellste Kuchen, den ich je gemacht habe — und trotzdem gut" - Jakub
 
 ## Über dieses Rezept
 

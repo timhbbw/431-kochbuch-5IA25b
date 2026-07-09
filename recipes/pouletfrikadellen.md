@@ -14,8 +14,8 @@ difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
-prep_time: "20 Min."
-cook_time: "15 Min."
+prep_time: "20 min"
+cook_time: "15 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -39,7 +39,7 @@ instructions:
   - "Aus der Masse portionsweise Frikadellen formen. Restliches Öl in einer Pfanne erhitzen und die Pouletfrikadellen darin braten."
 ---
 
-> «Schmackofatz»
+> «Schmackofatz» - Leon
 
 ## Über dieses Rezept
 

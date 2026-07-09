@@ -14,8 +14,8 @@ difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 1
-prep_time: "2 Min."
-cook_time: "5 Min."
+prep_time: "2 min"
+cook_time: "5 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:

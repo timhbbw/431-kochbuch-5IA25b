@@ -14,8 +14,8 @@ difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 4
-prep_time: "5 Min."
-cook_time: "20 Min."
+prep_time: "5 min"
+cook_time: "20 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -41,7 +41,7 @@ instructions:
   - "Direkt aus dem Ofen servieren und nach Belieben mit Reis, Kartoffeln oder frischem Gemüse geniessen."
 ---
 
-> «Wenig Vorbereitung, viel Geschmack, genau so muss Ofenlachs sein.»
+> «Wenig Vorbereitung, viel Geschmack, genau so muss Ofenlachs sein.» - Ranja
 
 ## Über dieses Rezept
 

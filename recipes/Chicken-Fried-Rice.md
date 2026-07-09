@@ -8,14 +8,14 @@ image: "images/recipes/you_tellin_me_a_chicken_fried_this_rice_.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
-tags: ["asiatisch", "Fleisch"]
+tags: ["asiatisch", "fleisch"]
 contributors: ["Tseten Sharlhey"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 4
-prep_time: "10 Min."
-cook_time: "20 Min."
+prep_time: "10 min"
+cook_time: "20 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -38,7 +38,7 @@ instructions:
   - "Zum Schluss alles nochmals gut vermischen und kurz weiterbraten. Danach kann das Chicken Fried Rice serviert werden."
 ---
 
-> «Dieses Gericht zeigt, dass man auch mit wenig Zeit, Energie und Geld etwas Warmes und Leckeres kochen kann.» — Tseten Sharlhey
+> «Dieses Gericht zeigt, dass man auch mit wenig Zeit, Energie und Geld etwas Warmes und Leckeres kochen kann.» — Tseten
 
 ## Über dieses Rezept
 

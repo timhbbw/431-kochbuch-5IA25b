@@ -8,14 +8,14 @@ image: "images/recipes/pasta-mit-rahmsauce-und-ofenlachs.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
-tags: ["Pasta", "Lachs", "Rahmsauce", "Abendessen"]
+tags: ["pasta", "lachs", "rahmsauce", "abendessen"]
 contributors: ["Latifa Ali"]
 difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 5
-prep_time: "10 Min."
-cook_time: "15 Min."
+prep_time: "10 min"
+cook_time: "15 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:

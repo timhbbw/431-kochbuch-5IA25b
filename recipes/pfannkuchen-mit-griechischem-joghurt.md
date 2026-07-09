@@ -8,14 +8,14 @@ image: "images/recipes/Pfannkuchen.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
-tags: ["Pfannkuchen", "Joghurt", "Früchte", "Honig", "schnell"]
+tags: ["pfannkuchen", "joghurt", "früchte", "honig", "schnell"]
 contributors: ["Roksana Bzdyrak"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
-prep_time: "15 Min."
-cook_time: "15 Min."
+prep_time: "15 min"
+cook_time: "15 min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -49,7 +49,7 @@ instructions:
   - "Die Pfannkuchen einrollen oder zusammenklappen und direkt servieren."
 ---
 
-> «Diese Pfannkuchen sind so weich, dass sogar Montagmorgen kurz nett wirkt.» 
+> «Diese Pfannkuchen sind so weich, dass sogar Montagmorgen kurz nett wirkt.» - Roksana
 
 ## Über dieses Rezept
 
