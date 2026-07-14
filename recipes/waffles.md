@@ -39,7 +39,7 @@ instructions:
   - "Eigelb, die flüssige Butter und die Milch zu den trockenen Zutaten geben und alles mit dem Handrührgerät zu einem glatten, klumpenfreien Teig verrühren."
   - "Jetzt den Eischnee mit einem Teigschaber ganz vorsichtig unter den Teig heben – nicht zu wild rühren, damit die Luftigkeit nicht verloren geht."
   - "Jeweils eine kleine Kelle Teig ins heisse Waffeleisen geben und die Waffeln für ca. 3–4 Minuten backen, bis sie schön goldbraun und knusprig sind."
-  - "Die fertigen Waffeln kurz auf einem Kuchengitter ausdampfen lassen und dann – genau wie auf dem Bild image_7bb845.jpg – noch warm mit reichlich Puderzucker bestreuen und geniessen."
+  - "Die fertigen Waffeln kurz auf einem Kuchengitter ausdampfen lassen – noch warm mit reichlich Puderzucker bestreuen und geniessen."
 ---
 
 > „Frisch, warm und goldbraun sollte der perfekte Snack schmecken.“ — Krithik

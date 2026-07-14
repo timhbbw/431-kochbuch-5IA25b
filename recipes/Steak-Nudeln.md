@@ -31,8 +31,8 @@ ingredients:
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
   - "Pasta im siedenden Salzwasser weich kochen. Pasta abtropfen, dabei ca. 2 dl Kochwasser behalten und beiseitestellen."
-  - "Entrecô0te Wenig Öl in einer Bratpfanne erhitzen. Fleisch würzen, beidseitig je ca. 2 Min. braten. Aus Pfanne nehmen, Fleisch zugedeckt ca. 5 Min. ruhen lassen. Hitze reduzieren, Bratfett auftupfen, wenig Öl in dieselbe Pfanne geben."
-  - "Sauce Zwiebel beigeben, ca. 3 Min. andämpfen. Wein dazugiessen, bis nur die Hälfte der Flüssigkeit vorhanden ist kochen
+  - "Entrecôte Wenig Öl in einer Bratpfanne erhitzen. Fleisch würzen, beidseitig je ca. 2 Min. braten. Aus Pfanne nehmen, Fleisch zugedeckt ca. 5 Min. ruhen lassen. Hitze reduzieren, Bratfett auftupfen, wenig Öl in dieselbe Pfanne geben."
+  - "Sauce Zwiebel beigeben, ca. 3 Min. andämpfen. Wein dazugiessen, bis nur die Hälfte der Flüssigkeit vorhanden ist.
    Saucen-Halbrahm, Thymian und beiseitegestelltes Kochwasser beigeben, aufkochen. Hitze reduzieren, Pasta beigeben, mischen, heiss werden
    lassen, würzen."
   - "Anrichten Pasta auf Tellern anrichten. Entrecôte tranchieren, darauf verteilen."
@@ -42,7 +42,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Ein auf dem Papier simples Rezept, welches aber gleichzeitig wunderbar aussieht und auch so schmekt.
+Ein auf dem Papier simples Rezept, welches aber gleichzeitig wunderbar aussieht und auch so schmeckt.
 
 ## Tipps
 
